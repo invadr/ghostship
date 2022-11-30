@@ -10,28 +10,28 @@ As your world disappears into the dark and the salt mist, it becomes woefully cl
 CONTROLS
 
 You control the protagonist with several commands given to the game console:
-  w - move forward
-  a - turn left
-  d - turn right
-  s - jump back/dodge
+  * __w__ - move forward
+  * __a__ - turn left
+  * __d__ - turn right
+  * __s__ - jump back/dodge
   
-  m - descirbe current map area
-  i - list current inventory contents
-  n - bring up menu
-      1 - save game without exiting
-      2 - save game and exit
-      3 - load game
-      4 - exit without saving
+  * __m__ - descirbe current map area
+  * __i__ - list current inventory contents
+  * __n__ - bring up menu
+      * __1__. - save game without exiting
+      * __2__. - save game and exit
+      * __3__. - load game
+      * __4__. - exit without saving
   
-  a - approach object
-  x - examine object
-  g - get object
-  t - talk to object (objects can be sentient entities such as people)
-  i - interact with/use object
+  * __a__ - approach object
+  * __x__ - examine object
+  * __g__ - get object
+  * __t__ - talk to object (objects can be sentient entities such as people)
+  * __i__ - interact with/use object
   
-  f - fight object
-  e - flee from object
-  b - block object/attack from object
+  * __f__ - fight object
+  * __e__ - flee from object
+  * __b__ - block object/attack from object
   
   
   V 0.1
